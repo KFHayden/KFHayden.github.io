@@ -1,11 +1,11 @@
 # Site settings
 author: Kevin Hayden
-title: 
+title: Blogging with Kevin
 header-img: img/home-bg.png
 email: kevin.fhayden@gmail.com
 copyright_name: Kevin Hayden
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Recapping my Experiences
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  KFHayden
