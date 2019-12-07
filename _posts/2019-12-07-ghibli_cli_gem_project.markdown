@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Ghibli CLI Gem Project"
-date:       2019-12-07 23:04:42 +0000
+date:       2019-12-07 18:04:43 -0500
 permalink:  ghibli_cli_gem_project
 ---
 
